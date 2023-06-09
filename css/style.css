@@ -180,7 +180,9 @@
         opacity: 0;
     }
 }
-
+.circular--square {
+    border-radius: 50%;
+}
 .modal-video .modal-dialog {
     position: relative;
     max-width: 800px;
